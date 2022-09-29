@@ -1,0 +1,22 @@
+title:              Sleepy Droop
+email:              sleepydroop@live.com
+description:        I sleep, I droop and I Oop!
+author:             Cute
+baseurl:            "/bam"
+url:                "https://sleepydroop.github.io"
+
+# Social Profiles
+twitter_username:   sleepydroop
+github_username:    sleepydroop
+facebook_username:  sleepydroop
+instagram_username:  sleepydroop
+linkedin_username:  sleepydroop
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
